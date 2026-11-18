@@ -5,7 +5,7 @@ A picture block for Editor.js with required alt text, host-provided upload, extr
 ## Install
 
 ```
-npm i github:Speedfreakhorror-Official/editorjs-picture
+npm i github:speedfreakhorror/editorjs-picture
 ```
 
 Import the tool and its stylesheet:

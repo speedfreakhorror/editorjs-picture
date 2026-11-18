@@ -1,6 +1,6 @@
 {
   "name": "editorjs-picture",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A picture block for Editor.js with required alt text, host-provided upload, extra picture sources and per-picture actions.",
   "private": false,
   "license": "MIT",
